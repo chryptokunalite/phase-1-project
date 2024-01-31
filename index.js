@@ -7,11 +7,11 @@ fetch('http://localhost:3000/dogs')
 
 //create dog cards...==>
 function createDogCards(dog){
-    let card = document.createElement('li')
+    let card = document.createElement('div')
     card.className = 'card'
     card.innerHTML = `
-    <img src="${dog.dogUrl}">
     <div class="content">
+        <img src="${dog.dogUrl}">
         <h4>${dog.breed}</h4>
         <p>${dog.description}</p>
     </div>
