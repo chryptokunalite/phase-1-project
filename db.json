@@ -1,65 +1,55 @@
 {
     "dogs": [
-        
         {   
-            "id": 1,
-            "dogName": "The Dachshund",
+            "breed": "The Dachshund",
             "dogUrl": "https://hips.hearstapps.com/clv.h-cdn.co/assets/16/18/gettyimages-170995383.jpg?crop=0.6676096181046676xw:1xh;center,top&resize=980:*",
+            "description": "The cutest hot dog you'll never eat.",
             "adopt": 0
         },
         {   
-            "id": 2,
-            "dogName": "The Boxer",
+            "breed": "The Boxer",
             "dogUrl": "https://www.pupvine.com/wp-content/uploads/2022/12/Brown-boxer-resting-while-playing-ball.jpg",
-            "adopt": 0
+            "description": "He's a southpaw..."
         },
         {   
-            "id": 3,
-            "dogName": "The Australian Shepherd",
+            "breed": "The Australian Shepherd",
             "dogUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSrfIRQmGLzQMnBntmMvitjhnMzCB2ysx9y9_aQ5E9ssX5GmVyenkWaYnMbUam39OwN",
-            "adopt": 0
+            "description": "G'day mate!"
         },
         {   
-            "id": 4,
-            "dogName": "The Yorkshire Terrier",
+            "breed": "The Yorkshire Terrier",
             "dogUrl": "https://www.southernliving.com/thmb/mVJa6Ifg3wqpW9sB_fWdJMPRd8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1131594558-2000-66e965da4b7648799da021ffb9798cd0.jpg",
-            "adopt": 0
+            "description": "A small dog, with a big attitude."
         },
         {   
-            "id": 5,
-            "dogName": "The Chihuahua",
+            "breed": "The Chihuahua",
             "dogUrl": "https://images.squarespace-cdn.com/content/v1/54822a56e4b0b30bd821480c/b4a86181-424e-459e-b101-093beebb2b48/Chihuahuas+dans+pet+care.jpeg",
-            "adopt": 0
+            "description": "Known to intimidate even the largest of beasts."
         },
         {   
-            "id": 6,
-            "dogName": "The German Shepherd",
+            "breed": "The German Shepherd",
             "dogUrl": "https://americaware.com/wp-content/uploads/2021/03/GermanShepherd_Blog.jpg",
-            "adopt": 0
+            "description": "The goodest of bois."
         },
         {   
-            "id": 7,
-            "dogName": "The Pomeranian",
+            "breed": "The Pomeranian",
             "dogUrl": "https://media-be.chewy.com/wp-content/uploads/2021/04/18141250/iStock-1422682177-923x615.jpg",
-            "adopt": 0
+            "description": "The best accessory for your gucci bag."
         },
         {   
-            "id": 8,
-            "dogName": "The Pitbull",
+            "breed": "The Pitbull",
             "dogUrl": "https://img.dog-learn.com/dog-breeds/american-pit-bull-terrier/pitbull-i5-sz4.jpg",
-            "adopt": 0
+            "description": "Mr.Worldwide!"
         },
         {   
-            "id": 9,
-            "dogName": "The Rottweiler",
+            "breed": "The Rottweiler",
             "dogUrl": "https://dogtime.com/wp-content/uploads/sites/12/2023/11/GettyImages-1198147566-e1701133343267.jpg?w=1024",
-            "adopt": 0
+            "description": "A guard dog with tiny eyebrows."
         },
         {   
-            "id": 10,
-            "dogName": "The Siberian Husky",
+            "breed": "The Siberian Husky",
             "dogUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVaICBnTl1DaP8w_QIUQQ7O3DRcFWEZC6SbwytzcjFtYWYGf40",
-            "adopt": 0
+            "description": "Would you like fur on every surface of your home?"
         }
         
     ]
