@@ -1,8 +1,9 @@
 //ON DOM LOAD...
 document.addEventListener('DOMContentLoaded',function(){
 //Fetch dog images
-
-
+fetch('http://localhost:3000/dogs')
+.then(res => res.json())
+.then(dogData => dogData.forEach(dog => createDogCards(dog)))
 
 //create dog cards...==>
 function createDogCards(dog){
