@@ -10,8 +10,8 @@ function createDogCards(dog){
     let card = document.createElement('div')
     card.className = 'card'
     card.innerHTML = `
-    <div class="content">
-        <img src="${dog.dogUrl}">
+    <div class="content" style="background-color:green;color:white;padding:20px;margin:10px;">
+        <img src="${dog.dogUrl}" width="678" height="452">
         <h4>${dog.breed}</h4>
         <p>${dog.description}</p>
     </div>
